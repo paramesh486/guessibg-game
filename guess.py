@@ -6,7 +6,7 @@ print(number)
 
 
 
-
+added a for loop for chance
 for chance in range(1,4):
     print(chance)
     enter=int(input("Guess a number between 1 and 10. You have 3 chances."))
