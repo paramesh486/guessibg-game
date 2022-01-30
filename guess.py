@@ -17,7 +17,7 @@ for chance in range(1,4):
 
     elif enter != number and chance<4:
         print("Wrong guess!,try once more")
-        4
+     
 
     else:   
         print("Try again next time. All your chances are over.")
