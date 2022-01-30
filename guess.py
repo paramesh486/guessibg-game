@@ -1,6 +1,5 @@
 import random
 
-chances=3
 number=random.randint(1,10)
 print(number)
 
